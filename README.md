@@ -1,3 +1,3 @@
 # ZUUU_CustomScenery
-ZUUU_CustomScenery
-Made by Sidi Liang(FGPRC-0762)
+ZUUU Custom Scenery
+Made by Sidi Liang(FGPRC-0762) and Marsdolphin
