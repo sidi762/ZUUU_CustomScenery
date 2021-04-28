@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Industrial/entrepotblanc-ba.xml 103.6871594 36.0761058 1593.2 332
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac 103.7059817 36.0997277 1535.53 0
+OBJECT_SHARED Models/Maritime/Civilian/barge.xml 103.7397637 36.0852551 1518.05 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesTours.xml 103.7360696 36.0769935 1530.51 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesTours.xml 103.7465265 36.0892488 1524.19 0
+OBJECT_SHARED Models/Residential/ZoneImmeublesTours.xml 103.7485396 36.0761305 1535.85 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green.xml 103.7150692 36.0743175 1532.84 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_dark.xml 103.7135861 36.0728038 1537.06 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 103.7168692 36.0740564 1533.32 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_orange.xml 103.7049849 36.0747612 1538.07 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_red.xml 103.7204149 36.0965129 1537.74 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_roze.xml 103.7130088 36.102892 1539.6 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 103.7169019 36.1004139 1539.45 0
+OBJECT_SHARED Models/Commercial/bank-building.ac 103.7160163 36.0970682 1533.78 0
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 103.6909517 36.0747742 1594.18 0
