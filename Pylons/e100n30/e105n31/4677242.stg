@@ -1,0 +1,13 @@
+# pylons_e100n30_e105n31_4677242
+# do not edit below this line
+# Last Written Fri Feb 28 00:55:03 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 105.50753 31.99787 663.82 212.604
+OBJECT_BUILDING_MESH_DETAILED e100n30_e105n31_4677242cables00007.ac 105.50140 31.99452 660.87 90
+# END pylons_e100n30_e105n31_4677242
+# pylons_e100n30_e105n32_4677250
+# do not edit below this line
+# Last Written Fri Feb 28 01:48:14 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 105.50753 31.99787 663.82 230.363
+# END pylons_e100n30_e105n32_4677250
